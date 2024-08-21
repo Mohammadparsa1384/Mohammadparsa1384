@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Junior Django Developer with a passion for b
 
 ## GitHub Stats
 
-![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-junior&show_icons=true&theme=radical)
+![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammadparsa1384&show_icons=true&theme=radical)
 
 ## Languages and Tools
 
