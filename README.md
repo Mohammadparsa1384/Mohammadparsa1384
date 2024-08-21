@@ -1,8 +1,7 @@
-## Hi there 👋
+# Hi there! I'm Parsa 👋
 
 I am a Junior Django Developer with a passion for web development and continuous learning.
 
-# Hi there! I'm Parsa 👋
 
 Welcome to my GitHub profile! I'm a Junior Django Developer with a passion for building dynamic and scalable web applications. I'm always eager to learn new technologies and improve my skills.
 
