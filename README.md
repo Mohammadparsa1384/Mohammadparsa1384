@@ -1,9 +1,6 @@
 # Hi there! I'm Parsa 👋
 
-I am a Junior Django Developer with a passion for web development and continuous learning.
-
-
-Welcome to my GitHub profile! I'm a Junior Django Developer with a passion for building dynamic and scalable web applications. I'm always eager to learn new technologies and improve my skills.
+I am Parsa Javidi, developer skilled in Python, Django, and Django Rest Framework (DRF). With a strong passion for clean and efficient code, I specialize in building high-performance, scalable web applications and APIs. My expertise includes designing RESTful APIs, optimizing database queries, and ensuring the security and scalability of web solutions. I thrive in collaborative environments, where I can contribute to innovative projects and solve complex challenges. Always eager to expand my knowledge, I stay updated with the latest trends and technologies, aiming to deliver seamless, user-friendly experiences that exceed expectation
 
 ## About Me
 
