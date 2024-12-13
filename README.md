@@ -1,34 +1,18 @@
-# Hi there! I'm Parsa 👋
-
-I am Parsa Javidi, developer skilled in Python, Django, and Django Rest Framework (DRF). With a strong passion for clean and efficient code, I specialize in building high-performance, scalable web applications and APIs. My expertise includes designing RESTful APIs, optimizing database queries, and ensuring the security and scalability of web solutions. I thrive in collaborative environments, where I can contribute to innovative projects and solve complex challenges. Always eager to expand my knowledge, I stay updated with the latest trends and technologies, aiming to deliver seamless, user-friendly experiences that exceed expectation
-
-## About Me
-
-- **🔭 I’m currently working on**: Improving my Django skills and exploring new technologies.
-- **🌱 I’m currently learning**: Advanced Django features, RESTful APIs with Django REST Framework.
-- **👯 I’m looking to collaborate on**: Open-source projects and initiatives related to web development and Django.
-- **🤔 I’m looking for help with**: Best practices for Django and web application optimization.
+# 💫 About Me:
+🔭 I’m currently working on: Improving my Django skills and exploring new technologies.<br>🌱 I’m currently learning: Advanced Django features, RESTful APIs with Django REST Framework.<br>👯 I’m looking to collaborate on: Open-source projects and initiatives related to web development and Django.<br>🤔 I’m looking for help with: Best practices for Django and web application optimization.
 
 
-## Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parsa-javidi) 
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Django, Django REST Framework
-- **Tools & Technologies**: Git, GitHub, PostgreSQL
-
-
-
-## GitHub Stats
-
-![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammadparsa1384&show_icons=true&theme=radical)
-
-## Languages and Tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadparsa1384&layout=compact)](https://github.com/Mohammadparsa1384/github-readme-stats)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohammadparsa1384&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammadparsa1384&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadparsa1384&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mohammadparsa1384&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration opportunities.
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
